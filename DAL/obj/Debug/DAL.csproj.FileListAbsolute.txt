@@ -161,3 +161,22 @@ D:\Aiub\spring  22-23\Asp .NET\TourneyNet\DAL\obj\Debug\DAL.Migrations.rankingup
 D:\Aiub\spring  22-23\Asp .NET\TourneyNet\DAL\obj\Debug\DAL.Migrations.teamCommunication.resources
 D:\Aiub\spring  22-23\Asp .NET\TourneyNet\DAL\obj\Debug\DAL.Migrations.match.resources
 D:\Aiub\spring  22-23\Asp .NET\TourneyNet\DAL\obj\Debug\DAL.Migrations.teamnameadded.resources
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\bin\Debug\DAL.dll.config
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\bin\Debug\DAL.dll
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\bin\Debug\DAL.pdb
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\bin\Debug\EntityFramework.dll
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\bin\Debug\EntityFramework.xml
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.Migrations.addedTableall.resources
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.Migrations.datatypechanged.resources
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.Migrations.rankingupdated.resources
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.Migrations.teamCommunication.resources
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.Migrations.match.resources
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.Migrations.teamnameadded.resources
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.dll
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\DAL\obj\Debug\DAL.pdb

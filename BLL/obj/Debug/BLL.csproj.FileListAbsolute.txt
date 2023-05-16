@@ -96,3 +96,17 @@ E:\.NET PROJECT\TourneyNet\TourneyNet\TourneyNet\BLL\obj\Debug\BLL.csproj.CoreCo
 E:\.NET PROJECT\TourneyNet\TourneyNet\TourneyNet\BLL\obj\Debug\BLL.csproj.CopyComplete
 E:\.NET PROJECT\TourneyNet\TourneyNet\TourneyNet\BLL\obj\Debug\BLL.dll
 E:\.NET PROJECT\TourneyNet\TourneyNet\TourneyNet\BLL\obj\Debug\BLL.pdb
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\bin\Debug\BLL.dll
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\bin\Debug\BLL.pdb
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\bin\Debug\AutoMapper.dll
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\bin\Debug\DAL.dll
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\bin\Debug\EntityFramework.dll
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\bin\Debug\DAL.pdb
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\bin\Debug\DAL.dll.config
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\bin\Debug\AutoMapper.xml
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\bin\Debug\EntityFramework.xml
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\obj\Debug\BLL.dll
+C:\zZz\Personal\Test\GitFolder\SaniBro\TourneyNet\BLL\obj\Debug\BLL.pdb
