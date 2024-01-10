@@ -1,8 +1,6 @@
 ﻿using BLL.DTOs;
 using BLL.Services;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
@@ -10,7 +8,7 @@ using System.Web.Http.Cors;
 
 namespace TourneyNet.Controllers
 {
-    [EnableCors("*","*","*")]
+    [EnableCors("*", "*", "*")]
     public class FanController : ApiController
     {
         [HttpGet]

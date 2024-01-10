@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DAL.Model
 {
@@ -32,24 +28,20 @@ namespace DAL.Model
 
         public virtual ICollection<FanPost> FanPost { get; set; }
 
-       public Registration()
+        public Registration()
         {
             FanPost = new List<FanPost>();
             Organizers = new List<Organizer>();
             Fans = new List<Fan>();
             Players = new List<Player>();
-
         }
 
         public virtual ICollection<Fan> Fans { get; set; }
 
-      
-
-
         public virtual ICollection<Organizer> Organizers { get; set; }
         public virtual ICollection<Player> Players { get; set; }
 
-       
+
 
     }
 }

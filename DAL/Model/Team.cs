@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DAL.Model
 {
@@ -22,11 +18,11 @@ namespace DAL.Model
         public int Player4_id { get; set; }
         public int Player5_id { get; set; }
 
-       public virtual ICollection<TeamCommunication> TeamCommunications { get; set; }
+        public virtual ICollection<TeamCommunication> TeamCommunications { get; set; }
 
-       public Team()
+        public Team()
         {
-           TeamCommunications = new List<TeamCommunication>();
+            TeamCommunications = new List<TeamCommunication>();
         }
     }
 }

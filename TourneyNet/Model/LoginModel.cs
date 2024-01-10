@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace TourneyNet.Model
+﻿namespace TourneyNet.Model
 {
     public class LoginModel
     {
